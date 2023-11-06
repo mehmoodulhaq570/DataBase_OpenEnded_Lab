@@ -1,0 +1,1 @@
+Change the name of your server to your database SQL server. Also, change the name of your database in the Python file. To create more tables you can also insert your own commands to generate more tables in a python pdf file.
